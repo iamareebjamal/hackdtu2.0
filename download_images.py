@@ -5,7 +5,9 @@ import sys
 
 urls = {
     'ringworm': 'http://www.dermnet.com/dn2/allJPG3/tinea-face',
-    'vitiligo': 'http://www.dermnet.com/dn2/allJPG3/vitiligo-1.jpg',
+    'vitiligo': 'http://www.dermnet.com/dn2/allJPG3/vitiligo',
+    'warts': 'http://www.dermnet.com/dn2/allJPGThumb3/warts',
+    'eczema' : 'http://www.dermnet.com/dn2/allJPG3/eczema-leg'
 }
 
 
